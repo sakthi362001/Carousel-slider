@@ -1,2 +1,2 @@
-# Carousel-slider
+# Carousel-Slider
  
